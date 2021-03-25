@@ -60,7 +60,7 @@
  <sub><b>Daniel Sousa @TutoDS</b></sub>
 </a>
 
-<br /><br />
+<br />
 
 [facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
