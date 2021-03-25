@@ -42,12 +42,7 @@
 </a>
 </div>
 
-<div align="right" style="margin-top: 20px">
-	<h6 style="text-transform: uppercase;">Wiki with Documentation:</h6>
-	<a href="https://github.com/TutoDS/nlw04-react/wiki">
-	<img alt="GitHub" src="https://img.shields.io/badge/github%20Wiki%20Documentation%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-	</a>
-</div>
+
 
 <div align="right" style="margin-top: 50px">
 <h3 style="font-weight: 300">
@@ -60,7 +55,7 @@
  <sub><b>Daniel Sousa @TutoDS</b></sub>
 </a>
 
-<br />
+<div style="margin-top: 30px">
 
 [facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
@@ -69,10 +64,9 @@
 [linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
 [gitlab]: https://gitlab.com/jdaniel.asousa
 
-[<img src="https://img.shields.io/badge/Facebook%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>][facebook] [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>][twitter]
+[<img src="https://img.shields.io/badge/%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>][facebook] [<img src="https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>][twitter] [<img src="https://img.shields.io/badge/%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>][linkedin]
 
-[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>][linkedin] [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>][instagram]
+[<img src="https://img.shields.io/badge/%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>][instagram] [<img src="https://img.shields.io/badge/%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>][youtube] [<img src="https://img.shields.io/badge/%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
 
-[<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>][youtube] [<img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
-
+</div>
 </div>
