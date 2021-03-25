@@ -18,13 +18,9 @@
 	</a>
 </div>
 
-
-
 <h2 style="font-weight:300">📹 Videos</h2>
 
 1. **[Classe 1](https://www.youtube.com/watch?v=VbkFOWw4yeY)**
-
-
 
 <h2 style="font-weight:300">🚀 Commands:</h2>
 
@@ -64,7 +60,7 @@
  <sub><b>Daniel Sousa @TutoDS</b></sub>
 </a>
 
-<div style="margin: 20px 0" />
+<div style="margin: 40px 0" ></div>
 
 [facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
