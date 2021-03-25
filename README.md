@@ -55,9 +55,7 @@
  <sub><b>Daniel Sousa @TutoDS</b></sub>
 </a>
 
-<br />
-
-<div style="margin-top: 30px">
+<br /><br />
 
 [facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
@@ -70,5 +68,4 @@
 
 [<img src="https://img.shields.io/badge/%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>][instagram] [<img src="https://img.shields.io/badge/%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>][youtube] [<img src="https://img.shields.io/badge/%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
 
-</div>
 </div>
