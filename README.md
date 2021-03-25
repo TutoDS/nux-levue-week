@@ -1,7 +1,6 @@
 <div align="center">
-<a href="#"><img alt="Move.it" src="./public/logo-full.svg" width="150px"></a>
+<a href="#"><img alt="Move.it" src="./static/logo-full.svg" width="150px"></a>
 <h1 style="font-weight: 300; margin-top: 5px">React <strong>NLW-04</strong></h1>
-<p><strong>Version 2:</strong> auto dark and light mode, getting your color mode from operating system</p>
 </div>
 
 <div align="center">
@@ -18,6 +17,12 @@
     	<img alt="Stargazers" src="https://img.shields.io/github/stars/TutoDS/nuxt-levue-week?style=for-the-badge">
 	</a>
 </div>
+
+
+
+<h2 style="font-weight:300">📹 Videos</h2>
+
+1. **[Classe 1](https://www.youtube.com/watch?v=VbkFOWw4yeY)**
 
 
 
