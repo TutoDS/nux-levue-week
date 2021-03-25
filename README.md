@@ -49,9 +49,9 @@
 🧑🏻‍💻 About Me
 </h3>
 
-<a href="https://github.com/TutoDS" alt="TutoDS">
 <img src="https://github.com/tutods.png" alt="Daniel Sousa @TutoDS" width="100px" style="border-radius: 100%">
 <br />
+<a href="https://github.com/TutoDS" alt="TutoDS">
  <sub><b>Daniel Sousa @TutoDS</b></sub>
 </a>
 
