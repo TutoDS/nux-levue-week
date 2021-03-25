@@ -42,8 +42,6 @@
 </a>
 </div>
 
-
-
 <div align="right" style="margin-top: 50px">
 <h3 style="font-weight: 300">
 🧑🏻‍💻 About Me
@@ -52,7 +50,7 @@
 <img src="https://github.com/tutods.png" alt="Daniel Sousa @TutoDS" width="100px" style="border-radius: 100%">
 <br />
 <a href="https://github.com/TutoDS" alt="TutoDS">
- <sub><b>Daniel Sousa @TutoDS</b></sub>
+<small><b>Daniel Sousa @TutoDS</b></small>
 </a>
 
 <br /><br />
