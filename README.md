@@ -29,7 +29,8 @@
 
 <h2 style="font-weight: 300">🗒 Changes:</h2>
 
--   Use **Prettier**, **Husky** and **Lint-Staged** to format code when do any commit
+-   Use **Prettier**, **Husky** and **Lint-Staged** to format code when do any commit;
+
 
 <div align="right" style="margin-top: 50px">
 <h6 style="text-transform: uppercase;">Have interest in:</h6>

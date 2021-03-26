@@ -24,7 +24,7 @@ module.exports = {
 				]
 			}
 		],
-
+		'space-before-function-paren': ['error', 'never'],
 		indent: 'off',
 		'@typescript-eslint/indent': ['error', 'tab'],
 		'no-new': 'off',
