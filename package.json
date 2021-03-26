@@ -10,7 +10,8 @@
 		"lint": "eslint --ext \".ts,.js,.vue\" --ignore-path .gitignore .",
 		"test": "jest",
 		"test:watch": "jest --watchAll",
-		"test:coverage": "jest --collectCoverage"
+		"test:coverage": "jest --collectCoverage",
+		"format": "prettier --write \"*.{ts,vue,tsx,jsx,js}\""
 	},
 	"dependencies": {
 		"@nuxt/typescript-runtime": "^2.0.1",
@@ -48,8 +49,8 @@
 		}
 	},
 	"lint-staged": {
-		"src/**/*.{js,jsx,ts,tsx,json,css,md}": [
-			"prettier --write"
+		"src/**/*.{js,jsx,ts,tsx,json,vue,css,md}": [
+			"prettier --write ."
 		],
 		"*.{ts,js,vue}": "eslint --fix"
 	}
