@@ -18,6 +18,12 @@
 	</a>
 </div>
 
+<h2 style="font-weight:300">🌐 Deploy:</h2>
+
+<a href="https://movue-it.vercel.app/">
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt='Deploy'/>
+</a>
+
 <h2 style="font-weight:300">📹 Videos</h2>
 
 1. **[Classe 1](https://www.youtube.com/watch?v=VbkFOWw4yeY)**
