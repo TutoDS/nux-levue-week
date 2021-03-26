@@ -24,7 +24,7 @@
 2. **[Classe 2](https://www.youtube.com/watch?v=7GpOaATDSJw)**
 3. **[Classe 3](https://www.youtube.com/watch?v=GqxqUnGJmkg)**
 4. **[Classe 4](https://www.youtube.com/watch?v=FYMhLF87PTU)**
-5. **[Classe 5]([#](https://www.youtube.com/watch?v=bHufbXQ8Oq0))**
+5. **[Classe 5]([#](https://www.youtube.com/watch?v=bHufbXQ8Oq0)**
 
 <h2 style="font-weight:300">🚀 Commands:</h2>
 
