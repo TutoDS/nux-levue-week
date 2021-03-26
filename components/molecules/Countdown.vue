@@ -1,7 +1,7 @@
 <template>
 	<div class="flex justify-center items-center mt-8 lg:mt-14 text-9xl text-title font-rajdhani">
 		<CountdownDigits :digits="minutes" />
-		<span class="px-4">:</span>
+		<span class="px-4 text-white">:</span>
 		<CountdownDigits :digits="seconds" />
 	</div>
 </template>

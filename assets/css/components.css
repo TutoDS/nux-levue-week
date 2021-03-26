@@ -3,11 +3,11 @@
 }
 
 .button.completed {
-	@apply bg-white text-text border-b-2 border-green cursor-not-allowed h-20;
+	@apply bg-white text-background border-b-2 border-green cursor-not-allowed h-20;
 }
 
 .button.abandon {
-	@apply bg-white text-text hover:bg-red hover:text-white h-20;
+	@apply bg-white text-background hover:bg-red hover:text-white h-20;
 }
 
 .button.start {

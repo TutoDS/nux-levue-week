@@ -4,20 +4,20 @@ export default {
 	[Mutations.SET_CURRENT_CHALLENGE_INDEX](state, index) {
 		state.currentChallengeIndex = index;
 	},
-	[Mutations.SET_IS_LEVEL_UP_MODAL_OPEN](state, isOpen) {
-		state.isLevelUpModalOpen = isOpen;
+	[Mutations.SET_IS_LEVEL_UP_MODAL_OPEN](state, flag) {
+		state.isLevelUpModalOpen = flag;
 	},
 	[Mutations.COMPLETE_CHALLENGE](state, xpAmount) {
 		const { current, end } = state.xp;
-		const currentTotalXp = xpAmount + current;
-		const shouldLevelUp = currentTotalXp >= end;
+		const currentTotalXP = current + xpAmount;
+		const shouldLevelUp = currentTotalXP >= end;
 
 		state.completedChallenges += 1;
 
 		if (shouldLevelUp) {
 			state.level += 1;
 
-			const remainingXp = currentTotalXp - end;
+			const remainingXp = currentTotalXP - end;
 			const experienceToNextLevel = Math.pow((state.level + 1) * 4, 2);
 
 			state.xp = {
@@ -27,13 +27,12 @@ export default {
 			};
 
 			state.isLevelUpModalOpen = true;
-
 			return;
 		}
 
 		state.xp = {
 			...state.xp,
-			current: currentTotalXp
+			current: currentTotalXP
 		};
 	},
 	[Mutations.SAVE_COOKIE_DATA](state, cookie) {

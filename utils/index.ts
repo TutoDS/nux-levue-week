@@ -5,3 +5,15 @@ export const sendNotification = (title: string, options: object) =>
 
 export const splitValue = (digits: string | number, padSize: number = 2) =>
 	`${digits}`.padStart(padSize, '0').split('');
+
+export const getRandomNumber = (min: number, max: number) =>
+	Math.floor(Math.random() * (max - min) + min);
+
+export const scrollToElement = (selector: string) => {
+	const element: HTMLElement | null = document.querySelector(selector);
+	const mediaQuery = window.matchMedia('(max-width: 639px)');
+
+	if (element && mediaQuery.matches) {
+		element.scrollIntoView({ block: 'start', behavior: 'smooth' });
+	}
+};

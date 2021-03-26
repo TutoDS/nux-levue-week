@@ -3,7 +3,7 @@
 		<img src="https://github.com/tutods.png" alt="Daniel Sousa @TutoDS" class="mr-6 w-20 h-20 rounded-full">
 
 		<div class="flex flex-col w-full">
-			<strong class="text-title text-2xl">Daniel Sousa @TutoDS</strong>
+			<strong class="text-white text-2xl">Daniel Sousa @TutoDS</strong>
 			<p class="flex items-center ">
 				<img src="icons/level.svg" alt="Level" class="mr-2">
 				<span class="text-base">Level {{ level }}</span>

@@ -10,20 +10,7 @@ module.exports = {
 	rules: {
 		'comma-dangle': ['error', 'never'],
 		'import/first': 'off',
-		'import/order': [
-			'error',
-			{
-				groups: [
-					'index',
-					'sibling',
-					'parent',
-					'internal',
-					'external',
-					'builtin',
-					'object'
-				]
-			}
-		],
+		'import/order': 'off',
 		'space-before-function-paren': ['error', 'never'],
 		indent: 'off',
 		'@typescript-eslint/indent': ['error', 'tab'],

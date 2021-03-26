@@ -1,5 +1,5 @@
-import { State } from './types';
 import allChallenges from '~/assets/challenges/data';
+import { State } from './types';
 
 export const state = (): State => ({
 	level: 1,
