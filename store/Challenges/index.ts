@@ -1,7 +1,7 @@
 import { State } from './types';
 import allChallenges from '~/assets/challenges/data';
 
-export const sate = (): State => ({
+export const state = (): State => ({
 	level: 1,
 	xp: {
 		current: 0,
