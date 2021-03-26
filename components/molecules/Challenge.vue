@@ -1,6 +1,6 @@
 <template>
 	<section class="flex flex-col flex-1 justify-center items-center py-6 px-10 md:px-16">
-		<header class="w-full pb-6 border-b-2 border-white">
+		<header class="w-full pb-6 border-b-2 border-dark-gray">
 			<h2 class="text-xl text-blue font-semibold text-center">
 				{{ `Win ${amount} XP!` }}
 			</h2>

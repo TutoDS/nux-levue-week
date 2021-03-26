@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-dark-gray text-white rounded-md flex flex-1 w-full mt-8 lg:mt-0 shadow-sm">
+	<div class="bg-white text-dark-gray rounded-md flex flex-1 w-full mt-8 lg:mt-0 shadow-sm">
 		<Challenge v-if="currentChallenge" v-bind="currentChallenge" />
 
 		<StartCycle v-else />
