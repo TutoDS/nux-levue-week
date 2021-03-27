@@ -1,7 +1,11 @@
 {
 	"name": "move-it-nuxt",
 	"version": "1.0.0",
-	"private": true,
+	"private": false,
+	"repository": {
+		"url": "https://github.com/TutoDS/nuxt-levue-week",
+		"type": "GitHub"
+	},
 	"scripts": {
 		"dev": "nuxt-ts",
 		"build": "nuxt-ts build",
